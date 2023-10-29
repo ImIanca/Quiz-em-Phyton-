@@ -1,0 +1,163 @@
+{
+  "questoes": [
+    {
+      "pergunta": "Qual é a capital da França?",
+      "alternativas": [
+        {"resposta": "Londres", "correta": false},
+        {"resposta": "Madrid", "correta": false},
+        {"resposta": "Paris", "correta": true}
+      ]
+    },
+    {
+      "pergunta": "Qual é o maior planeta do sistema solar?",
+      "alternativas": [
+        {"resposta": "Marte", "correta": false},
+        {"resposta": "Júpiter", "correta": true},
+        {"resposta": "Vênus", "correta": false}
+      ]
+    },
+    {
+      "pergunta": "Quem escreveu 'Romeu e Julieta'?",
+      "alternativas": [
+        {"resposta": "Charles Dickens", "correta": false},
+        {"resposta": "William Shakespeare", "correta": true},
+        {"resposta": "Jane Austen", "correta": false}
+      ]
+    },
+    {
+      "pergunta": "Qual é o símbolo químico do ouro?",
+      "alternativas": [
+        {"resposta": "Ag", "correta": false},
+        {"resposta": "Fe", "correta": false},
+        {"resposta": "Au", "correta": true}
+      ]
+    },
+    {
+      "pergunta": "Qual é o segundo planeta a partir do sol?",
+      "alternativas": [
+        {"resposta": "Terra", "correta": false},
+        {"resposta": "Vênus", "correta": true},
+        {"resposta": "Marte", "correta": false}
+      ]
+    },
+    {
+      "pergunta": "Qual é o maior oceano do mundo?",
+      "alternativas": [
+        {"resposta": "Oceano Atlântico", "correta": false},
+        {"resposta": "Oceano Índico", "correta": false},
+        {"resposta": "Oceano Pacífico", "correta": true}
+      ]
+    },
+    {
+      "pergunta": "Quantos continentes existem na Terra?",
+      "alternativas": [
+        {"resposta": "5", "correta": false},
+        {"resposta": "6", "correta": false},
+        {"resposta": "7", "correta": true}
+      ]
+    },
+    {
+      "pergunta": "Qual é a maior lua de Júpiter?",
+      "alternativas": [
+        {"resposta": "Io", "correta": false},
+        {"resposta": "Ganimedes", "correta": true},
+        {"resposta": "Calisto", "correta": false}
+      ]
+    },
+    {
+      "pergunta": "Quem pintou a 'Mona Lisa'?",
+      "alternativas": [
+        {"resposta": "Pablo Picasso", "correta": false},
+        {"resposta": "Vincent van Gogh", "correta": false},
+        {"resposta": "Leonardo da Vinci", "correta": true}
+      ]
+    },
+    {
+      "pergunta": "Qual é a maior cordilheira de montanhas do mundo?",
+      "alternativas": [
+        {"resposta": "Cordilheira dos Andes", "correta": true},
+        {"resposta": "Cordilheira dos Alpes", "correta": false},
+        {"resposta": "Montanhas Rochosas", "correta": false}
+      ]
+    },{
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "alternativas": [
+          {"resposta": "Deserto do Saara", "correta": true},
+          {"resposta": "Deserto de Atacama", "correta": false},
+          {"resposta": "Deserto de Gobi", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Quem é considerado o pai da filosofia ocidental?",
+        "alternativas": [
+          {"resposta": "Aristóteles", "correta": false},
+          {"resposta": "Platão", "correta": false},
+          {"resposta": "Sócrates", "correta": true}
+        ]
+      },
+      {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "alternativas": [
+          {"resposta": "Rio Amazonas", "correta": true},
+          {"resposta": "Rio Nilo", "correta": false},
+          {"resposta": "Rio Yangtzé", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o maior mamífero terrestre?",
+        "alternativas": [
+          {"resposta": "Elefante Africano", "correta": true},
+          {"resposta": "Rinoceronte", "correta": false},
+          {"resposta": "Girafa", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Quem é o autor da obra 'Dom Quixote'?",
+        "alternativas": [
+          {"resposta": "Miguel de Cervantes", "correta": true},
+          {"resposta": "William Shakespeare", "correta": false},
+          {"resposta": "Fyodor Dostoevsky", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o maior órgão do corpo humano?",
+        "alternativas": [
+          {"resposta": "Cérebro", "correta": false},
+          {"resposta": "Fígado", "correta": false},
+          {"resposta": "Pele", "correta": true}
+        ]
+      },
+      {
+        "pergunta": "Qual é o planeta anão mais distante do Sol em nosso sistema solar?",
+        "alternativas": [
+          {"resposta": "Plutão", "correta": true},
+          {"resposta": "Éris", "correta": false},
+          {"resposta": "Haumea", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Quem foi o primeiro imperador romano?",
+        "alternativas": [
+          {"resposta": "Nero", "correta": false},
+          {"resposta": "Augusto", "correta": true},
+          {"resposta": "Calígula", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é o símbolo químico do carbono?",
+        "alternativas": [
+          {"resposta": "C", "correta": true},
+          {"resposta": "Co", "correta": false},
+          {"resposta": "Cr", "correta": false}
+        ]
+      },
+      {
+        "pergunta": "Qual é a maior ilha do mundo?",
+        "alternativas": [
+          {"resposta": "Groenlândia", "correta": true},
+          {"resposta": "Austrália", "correta": false},
+          {"resposta": "Madagáscar", "correta": false}
+        ]
+      }
+  ]
+}
