@@ -13,8 +13,8 @@ import random
 CRIEI A LISTA DE JOGADOR3ES E AS DEMAIS VARIAVEIS GLOBAIS
 '''
 lista_de_jogadores = []
-nome_json = "C:\\Users\\IANCA\\Documents\\Quiz\\dados.json"
-questoes_json = "C:\\Users\\IANCA\\Documents\\Quiz\\banco_de_perguntas.json"
+nome_json = "dados.json"
+questoes_json = "banco_de_perguntas.json"
 lista_questoes = []
 
 
